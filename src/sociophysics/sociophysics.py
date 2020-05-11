@@ -8,13 +8,13 @@
 # __future__ imports
 
 __author__ = 'Miguel Gómez Donoso'
-__copyright__ = 'Copyright {year}, {project_name}'
+__copyright__ = 'Copyright 2020, sociophysics'
 __credits__ = ['Miguel Gómez Donoso']
 __license__ = 'BSD-2-Clause'
-__version__ = '0.0.0'
+__version__ = '0.1.0'
 __maintainer__ = 'Miguel Gómez Donoso'
 __email__ = 'miguelgdonoso@gmail.com'
-__status__ = '1 - Planning'
+__status__ = '2 - Pre-Alpha'
 
 # Built-in/generic imports
 # Libs

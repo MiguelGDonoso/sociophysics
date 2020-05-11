@@ -1,6 +1,10 @@
-#############################
-Self-explanatory Project Name 
-#############################
+############
+Sociophysics 
+############
+
+
+An exploration of sociophysical models
+++++++++++++++++++++++++++++++++++++++
 
 
 .. Badges
@@ -12,14 +16,14 @@ Self-explanatory Project Name
    :target: https://www.repostatus.org/#wip
 
 .. |version| image:: https://img.shields.io/github/v/tag/MiguelGDonoso/template_scientific_computing?include_prereleases
-   :target: https://github.com/MiguelGDonoso/template_scientific_computing/tags
+   :target: https://github.com/MiguelGDonoso/sociophysics/tags
 
-.. |license| image:: https://img.shields.io/github/license/MiguelGDonoso/template_scientific_computing
+.. |license| image:: https://img.shields.io/github/license/MiguelGDonoso/sociophysics
    :alt: BSD-2-Clause
-   :target: https://github.com/MiguelGDonoso/template_scientific_computing/blob/master/LICENSE
+   :target: https://github.com/MiguelGDonoso/sociophysics/blob/master/LICENSE
 
 
-Short overview.
+A selected collection of scripts to survey and analyze sociophysical models [#galam]
 
 
 .. contents:: **Table of contents**
@@ -97,6 +101,8 @@ This project is licensed under the `BSD-2-Clause License`_.
 Sources 
 *******
 
+[#galam] Galam, Sociophysics
+
 
 Contributors 
 ------------
@@ -109,17 +115,12 @@ Contributors
 Acknowledgements
 ----------------
 
-* `Good Enough Practices for Scientific Computing`_
-* `Make a Readme`_
+
 * `Semantic Versioning`_
 * `Keep a Changelog`_
-* `Shields`_
 
-.. _`Good Enough Practices for Scientific Computing`: https://swcarpentry.github.io/good-enough-practices-in-scientific-computing/
-.. _`Make a Readme`: https://www.makeareadme.com/
 .. _`Semantic Versioning`: https://semver.org/spec/v2.0.0.html
 .. _`Keep a Changelog`: https://keepachangelog.com/en/1.0.0/
-.. _`Shields`: https://shields.io/
 
 
 References
