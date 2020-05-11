@@ -15,7 +15,7 @@ An exploration of sociophysical models
    :alt: Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.
    :target: https://www.repostatus.org/#wip
 
-.. |version| image:: https://img.shields.io/github/v/tag/MiguelGDonoso/template_scientific_computing?include_prereleases
+.. |version| image:: https://img.shields.io/github/v/tag/MiguelGDonoso/sociophysics?include_prereleases
    :target: https://github.com/MiguelGDonoso/sociophysics/tags
 
 .. |license| image:: https://img.shields.io/github/license/MiguelGDonoso/sociophysics
@@ -23,7 +23,7 @@ An exploration of sociophysical models
    :target: https://github.com/MiguelGDonoso/sociophysics/blob/master/LICENSE
 
 
-A selected collection of scripts to survey and analyze sociophysical models [#galam]
+A selected collection of scripts to survey and analyze sociophysical models [#galam]_
 
 
 .. contents:: **Table of contents**
@@ -101,7 +101,7 @@ This project is licensed under the `BSD-2-Clause License`_.
 Sources 
 *******
 
-[#galam] Galam, Sociophysics
+.. [#galam] Galam, Sociophysics
 
 
 Contributors 
