@@ -17,7 +17,7 @@ setup(
     packages=find_packages('src'),
     package_dir={'': 'src'},
     classifiers=[
-        'Development Status :: 1 - Planning',
+        'Development Status :: 2 - Pre-Alpha',
         'Intended Audience :: Science/Research',
         'Topic :: Scientific/Engineering :: Physics',
         'License :: OSI Approved :: BSD License',
